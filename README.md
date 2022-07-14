@@ -9,3 +9,6 @@ A bug fix i hope to fix soon.
 
 The delete functionality still needs work.
 
+Used lodash to prevent errors when changing urls
+
+
